@@ -1,1 +1,1 @@
-# cadastro-simples-laravel
+# Cadastro simples de pessoas utilizando laravel
